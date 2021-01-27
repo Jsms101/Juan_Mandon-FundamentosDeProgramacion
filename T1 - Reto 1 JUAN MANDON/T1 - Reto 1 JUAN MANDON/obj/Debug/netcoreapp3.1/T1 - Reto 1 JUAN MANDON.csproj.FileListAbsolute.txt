@@ -1,0 +1,11 @@
+C:\Users\juans\source\repos\T1 - Reto 1 JUAN MANDON\T1 - Reto 1 JUAN MANDON\bin\Debug\netcoreapp3.1\T1 - Reto 1 JUAN MANDON.exe
+C:\Users\juans\source\repos\T1 - Reto 1 JUAN MANDON\T1 - Reto 1 JUAN MANDON\bin\Debug\netcoreapp3.1\T1 - Reto 1 JUAN MANDON.deps.json
+C:\Users\juans\source\repos\T1 - Reto 1 JUAN MANDON\T1 - Reto 1 JUAN MANDON\bin\Debug\netcoreapp3.1\T1 - Reto 1 JUAN MANDON.runtimeconfig.json
+C:\Users\juans\source\repos\T1 - Reto 1 JUAN MANDON\T1 - Reto 1 JUAN MANDON\bin\Debug\netcoreapp3.1\T1 - Reto 1 JUAN MANDON.runtimeconfig.dev.json
+C:\Users\juans\source\repos\T1 - Reto 1 JUAN MANDON\T1 - Reto 1 JUAN MANDON\bin\Debug\netcoreapp3.1\T1 - Reto 1 JUAN MANDON.dll
+C:\Users\juans\source\repos\T1 - Reto 1 JUAN MANDON\T1 - Reto 1 JUAN MANDON\bin\Debug\netcoreapp3.1\T1 - Reto 1 JUAN MANDON.pdb
+C:\Users\juans\source\repos\T1 - Reto 1 JUAN MANDON\T1 - Reto 1 JUAN MANDON\obj\Debug\netcoreapp3.1\T1 - Reto 1 JUAN MANDON.csprojAssemblyReference.cache
+C:\Users\juans\source\repos\T1 - Reto 1 JUAN MANDON\T1 - Reto 1 JUAN MANDON\obj\Debug\netcoreapp3.1\T1 - Reto 1 JUAN MANDON.AssemblyInfoInputs.cache
+C:\Users\juans\source\repos\T1 - Reto 1 JUAN MANDON\T1 - Reto 1 JUAN MANDON\obj\Debug\netcoreapp3.1\T1 - Reto 1 JUAN MANDON.AssemblyInfo.cs
+C:\Users\juans\source\repos\T1 - Reto 1 JUAN MANDON\T1 - Reto 1 JUAN MANDON\obj\Debug\netcoreapp3.1\T1 - Reto 1 JUAN MANDON.dll
+C:\Users\juans\source\repos\T1 - Reto 1 JUAN MANDON\T1 - Reto 1 JUAN MANDON\obj\Debug\netcoreapp3.1\T1 - Reto 1 JUAN MANDON.pdb

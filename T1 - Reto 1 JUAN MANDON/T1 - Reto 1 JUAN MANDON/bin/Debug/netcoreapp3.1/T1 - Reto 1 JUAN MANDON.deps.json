@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "T1 - Reto 1 JUAN MANDON/1.0.0": {
+        "runtime": {
+          "T1 - Reto 1 JUAN MANDON.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T1 - Reto 1 JUAN MANDON/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
