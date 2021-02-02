@@ -1,0 +1,11 @@
+C:\Users\juans\source\repos\Desafio_02-03_Solucion de triangulos_JuanMandon\Desafio_02-03_Solucion de triangulos_JuanMandon\bin\Debug\netcoreapp3.1\Desafio_02-03_Solucion de triangulos_JuanMandon.exe
+C:\Users\juans\source\repos\Desafio_02-03_Solucion de triangulos_JuanMandon\Desafio_02-03_Solucion de triangulos_JuanMandon\bin\Debug\netcoreapp3.1\Desafio_02-03_Solucion de triangulos_JuanMandon.deps.json
+C:\Users\juans\source\repos\Desafio_02-03_Solucion de triangulos_JuanMandon\Desafio_02-03_Solucion de triangulos_JuanMandon\bin\Debug\netcoreapp3.1\Desafio_02-03_Solucion de triangulos_JuanMandon.runtimeconfig.json
+C:\Users\juans\source\repos\Desafio_02-03_Solucion de triangulos_JuanMandon\Desafio_02-03_Solucion de triangulos_JuanMandon\bin\Debug\netcoreapp3.1\Desafio_02-03_Solucion de triangulos_JuanMandon.runtimeconfig.dev.json
+C:\Users\juans\source\repos\Desafio_02-03_Solucion de triangulos_JuanMandon\Desafio_02-03_Solucion de triangulos_JuanMandon\bin\Debug\netcoreapp3.1\Desafio_02-03_Solucion de triangulos_JuanMandon.dll
+C:\Users\juans\source\repos\Desafio_02-03_Solucion de triangulos_JuanMandon\Desafio_02-03_Solucion de triangulos_JuanMandon\bin\Debug\netcoreapp3.1\Desafio_02-03_Solucion de triangulos_JuanMandon.pdb
+C:\Users\juans\source\repos\Desafio_02-03_Solucion de triangulos_JuanMandon\Desafio_02-03_Solucion de triangulos_JuanMandon\obj\Debug\netcoreapp3.1\Desafio_02-03_Solucion de triangulos_JuanMandon.csprojAssemblyReference.cache
+C:\Users\juans\source\repos\Desafio_02-03_Solucion de triangulos_JuanMandon\Desafio_02-03_Solucion de triangulos_JuanMandon\obj\Debug\netcoreapp3.1\Desafio_02-03_Solucion de triangulos_JuanMandon.AssemblyInfoInputs.cache
+C:\Users\juans\source\repos\Desafio_02-03_Solucion de triangulos_JuanMandon\Desafio_02-03_Solucion de triangulos_JuanMandon\obj\Debug\netcoreapp3.1\Desafio_02-03_Solucion de triangulos_JuanMandon.AssemblyInfo.cs
+C:\Users\juans\source\repos\Desafio_02-03_Solucion de triangulos_JuanMandon\Desafio_02-03_Solucion de triangulos_JuanMandon\obj\Debug\netcoreapp3.1\Desafio_02-03_Solucion de triangulos_JuanMandon.dll
+C:\Users\juans\source\repos\Desafio_02-03_Solucion de triangulos_JuanMandon\Desafio_02-03_Solucion de triangulos_JuanMandon\obj\Debug\netcoreapp3.1\Desafio_02-03_Solucion de triangulos_JuanMandon.pdb
