@@ -1,0 +1,3 @@
+C:\Users\juans\source\repos\Desafio 02 (sistemas numericos) Triangulos_Juan mandon\Desafio 02 (sistemas numericos) Triangulos_Juan mandon\obj\Debug\netcoreapp3.1\Desafio 02 (sistemas numericos) Triangulos_Juan mandon.csprojAssemblyReference.cache
+C:\Users\juans\source\repos\Desafio 02 (sistemas numericos) Triangulos_Juan mandon\Desafio 02 (sistemas numericos) Triangulos_Juan mandon\obj\Debug\netcoreapp3.1\Desafio 02 (sistemas numericos) Triangulos_Juan mandon.AssemblyInfoInputs.cache
+C:\Users\juans\source\repos\Desafio 02 (sistemas numericos) Triangulos_Juan mandon\Desafio 02 (sistemas numericos) Triangulos_Juan mandon\obj\Debug\netcoreapp3.1\Desafio 02 (sistemas numericos) Triangulos_Juan mandon.AssemblyInfo.cs
