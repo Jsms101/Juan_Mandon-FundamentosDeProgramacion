@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Desafio 02 (sistemas numericos) Triangulos_Juan mandon/1.0.0": {
+        "runtime": {
+          "Desafio 02 (sistemas numericos) Triangulos_Juan mandon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio 02 (sistemas numericos) Triangulos_Juan mandon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

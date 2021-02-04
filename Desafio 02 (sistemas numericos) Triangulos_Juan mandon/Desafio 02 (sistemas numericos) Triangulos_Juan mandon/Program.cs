@@ -8,7 +8,7 @@ namespace Desafio_02__sistemas_numericos__Triangulos_Juan_mandon
         {
 
             //variables
-            double hyperXY, topRightRad, cRad, eRad, aRad, bRad, dRad, noventaRad, bGrad, dGrad, t, y, z, b, d, e, x = 0; //NoventaRad es 90° por defecto (en radianes)
+            double hyperXY, topRightRad, cRad, eRad, aRad, bRad, dRad, noventaRad, bGrad, dGrad, baRad, t, y, z, b, d, e, x = 0; //NoventaRad es 90° por defecto (en radianes)
 
 
             noventaRad = Math.PI / 2;
@@ -17,7 +17,7 @@ namespace Desafio_02__sistemas_numericos__Triangulos_Juan_mandon
             Console.WriteLine("Este es un programa para encontrar datos desconocidos de dos triangulos mediante diversos datos dados, en este caso" +
                 "\n d, b & y. ");
 
-            Console.WriteLine("\nEl programa entregara el valor de x");
+            Console.WriteLine("\nEl programa entregara el valor de z");
 
 
 
@@ -37,25 +37,21 @@ namespace Desafio_02__sistemas_numericos__Triangulos_Juan_mandon
 
             y = double.Parse(Console.ReadLine());
 
-            //Procesamiento de datos para el triangulo pequeño
-
             
-
-
-
-
-
             //procesamiento de datos para el triangulo grande
 
-            eRad = Math.PI - (bRad + dRad); //con esto calculamos el lado de e, que es 180 - la suma de los dos angulos restantes
+            eRad = Math.PI - (dRad + bRad);  //con esto calculamos el lado de e, que es 180 - la suma de los dos angulos restantes
 
-            topRightRad = aRad + bRad;    //grados de la parte superior derecha del triangulo grande
-            d = Math.PI - noventaRad - topRightRad;
+            baRad = Math.PI - (dRad + noventaRad);//grados de la parte superior derecha del triangulo grande
+            aRad = baRad - bRad;
 
-            hyperXY = z * Math.Sin(topRightRad) / Math.Sin(d); //HyperXY es la suma de x + y, o el lado inferior del triangulo.
+            //con los datos arad, noventarad & y podemos calcular z en el triangulo pequeño
 
-            x = hyperXY - y;
+            //Procesamiento de datos para el triangulo pequeño
 
+            cRad = Math.PI - (noventaRad + aRad);
+
+            z = (y * Math.Sin(cRad))/Math.Sin(aRad);
 
 
 
@@ -65,14 +61,14 @@ namespace Desafio_02__sistemas_numericos__Triangulos_Juan_mandon
 
             //de radianes a grados
 
-            cRad = cRad * 180 / Math.PI;
-            aRad = aRad * 180 / Math.PI;
+            //cRad = cRad * 180 / Math.PI;
+            //aRad = aRad * 180 / Math.PI;
 
 
             //Resultados
 
-            Console.WriteLine("Para los valores b = " + bGrad + " z = " + z + " & y = " + y + " Los valores desconocidos serian: \n ");
-            Console.WriteLine("x = " + x);
+            Console.WriteLine("Para los valores d = " + dGrad + " b = " + bGrad + " & y = " + y + " Los valores desconocidos serian: \n ");
+            Console.WriteLine("z = " + z);
             //Console.WriteLine("\nc = " + cRad);
             //Console.WriteLine("\na = " + aRad);
 
