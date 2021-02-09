@@ -1,0 +1,11 @@
+C:\Users\juans\source\repos\04 Evaluación seguridad Social Juan_Mandon\04 Evaluación seguridad Social Juan_Mandon\bin\Debug\netcoreapp3.1\04 Evaluación seguridad Social Juan_Mandon.exe
+C:\Users\juans\source\repos\04 Evaluación seguridad Social Juan_Mandon\04 Evaluación seguridad Social Juan_Mandon\bin\Debug\netcoreapp3.1\04 Evaluación seguridad Social Juan_Mandon.deps.json
+C:\Users\juans\source\repos\04 Evaluación seguridad Social Juan_Mandon\04 Evaluación seguridad Social Juan_Mandon\bin\Debug\netcoreapp3.1\04 Evaluación seguridad Social Juan_Mandon.runtimeconfig.json
+C:\Users\juans\source\repos\04 Evaluación seguridad Social Juan_Mandon\04 Evaluación seguridad Social Juan_Mandon\bin\Debug\netcoreapp3.1\04 Evaluación seguridad Social Juan_Mandon.runtimeconfig.dev.json
+C:\Users\juans\source\repos\04 Evaluación seguridad Social Juan_Mandon\04 Evaluación seguridad Social Juan_Mandon\bin\Debug\netcoreapp3.1\04 Evaluación seguridad Social Juan_Mandon.dll
+C:\Users\juans\source\repos\04 Evaluación seguridad Social Juan_Mandon\04 Evaluación seguridad Social Juan_Mandon\bin\Debug\netcoreapp3.1\04 Evaluación seguridad Social Juan_Mandon.pdb
+C:\Users\juans\source\repos\04 Evaluación seguridad Social Juan_Mandon\04 Evaluación seguridad Social Juan_Mandon\obj\Debug\netcoreapp3.1\04 Evaluación seguridad Social Juan_Mandon.csprojAssemblyReference.cache
+C:\Users\juans\source\repos\04 Evaluación seguridad Social Juan_Mandon\04 Evaluación seguridad Social Juan_Mandon\obj\Debug\netcoreapp3.1\04 Evaluación seguridad Social Juan_Mandon.AssemblyInfoInputs.cache
+C:\Users\juans\source\repos\04 Evaluación seguridad Social Juan_Mandon\04 Evaluación seguridad Social Juan_Mandon\obj\Debug\netcoreapp3.1\04 Evaluación seguridad Social Juan_Mandon.AssemblyInfo.cs
+C:\Users\juans\source\repos\04 Evaluación seguridad Social Juan_Mandon\04 Evaluación seguridad Social Juan_Mandon\obj\Debug\netcoreapp3.1\04 Evaluación seguridad Social Juan_Mandon.dll
+C:\Users\juans\source\repos\04 Evaluación seguridad Social Juan_Mandon\04 Evaluación seguridad Social Juan_Mandon\obj\Debug\netcoreapp3.1\04 Evaluación seguridad Social Juan_Mandon.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "04 Evaluación seguridad Social Juan_Mandon/1.0.0": {
+        "runtime": {
+          "04 Evaluación seguridad Social Juan_Mandon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "04 Evaluación seguridad Social Juan_Mandon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

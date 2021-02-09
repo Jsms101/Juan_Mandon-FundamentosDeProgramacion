@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_04_Evaluación_seguridad_Social_Juan_Mandon</RootNamespace>
+  </PropertyGroup>
+
+</Project>
