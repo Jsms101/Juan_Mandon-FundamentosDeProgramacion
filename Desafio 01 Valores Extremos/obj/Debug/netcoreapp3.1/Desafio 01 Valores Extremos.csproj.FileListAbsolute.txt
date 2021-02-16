@@ -1,0 +1,11 @@
+C:\Users\juans\source\repos\Desafio 01 Valores Extremos\Desafio 01 Valores Extremos\bin\Debug\netcoreapp3.1\Desafio 01 Valores Extremos.exe
+C:\Users\juans\source\repos\Desafio 01 Valores Extremos\Desafio 01 Valores Extremos\bin\Debug\netcoreapp3.1\Desafio 01 Valores Extremos.deps.json
+C:\Users\juans\source\repos\Desafio 01 Valores Extremos\Desafio 01 Valores Extremos\bin\Debug\netcoreapp3.1\Desafio 01 Valores Extremos.runtimeconfig.json
+C:\Users\juans\source\repos\Desafio 01 Valores Extremos\Desafio 01 Valores Extremos\bin\Debug\netcoreapp3.1\Desafio 01 Valores Extremos.runtimeconfig.dev.json
+C:\Users\juans\source\repos\Desafio 01 Valores Extremos\Desafio 01 Valores Extremos\bin\Debug\netcoreapp3.1\Desafio 01 Valores Extremos.dll
+C:\Users\juans\source\repos\Desafio 01 Valores Extremos\Desafio 01 Valores Extremos\bin\Debug\netcoreapp3.1\Desafio 01 Valores Extremos.pdb
+C:\Users\juans\source\repos\Desafio 01 Valores Extremos\Desafio 01 Valores Extremos\obj\Debug\netcoreapp3.1\Desafio 01 Valores Extremos.csprojAssemblyReference.cache
+C:\Users\juans\source\repos\Desafio 01 Valores Extremos\Desafio 01 Valores Extremos\obj\Debug\netcoreapp3.1\Desafio 01 Valores Extremos.AssemblyInfoInputs.cache
+C:\Users\juans\source\repos\Desafio 01 Valores Extremos\Desafio 01 Valores Extremos\obj\Debug\netcoreapp3.1\Desafio 01 Valores Extremos.AssemblyInfo.cs
+C:\Users\juans\source\repos\Desafio 01 Valores Extremos\Desafio 01 Valores Extremos\obj\Debug\netcoreapp3.1\Desafio 01 Valores Extremos.dll
+C:\Users\juans\source\repos\Desafio 01 Valores Extremos\Desafio 01 Valores Extremos\obj\Debug\netcoreapp3.1\Desafio 01 Valores Extremos.pdb
