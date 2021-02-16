@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Dados_casa02_juegos_de_azar_juan_mandon</RootNamespace>
+  </PropertyGroup>
+
+</Project>

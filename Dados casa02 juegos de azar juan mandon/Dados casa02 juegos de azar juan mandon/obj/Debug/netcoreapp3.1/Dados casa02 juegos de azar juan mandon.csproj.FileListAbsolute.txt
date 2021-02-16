@@ -1,0 +1,11 @@
+C:\Users\juans\source\repos\Dados casa02 juegos de azar juan mandon\Dados casa02 juegos de azar juan mandon\obj\Debug\netcoreapp3.1\Dados casa02 juegos de azar juan mandon.csprojAssemblyReference.cache
+C:\Users\juans\source\repos\Dados casa02 juegos de azar juan mandon\Dados casa02 juegos de azar juan mandon\obj\Debug\netcoreapp3.1\Dados casa02 juegos de azar juan mandon.AssemblyInfoInputs.cache
+C:\Users\juans\source\repos\Dados casa02 juegos de azar juan mandon\Dados casa02 juegos de azar juan mandon\obj\Debug\netcoreapp3.1\Dados casa02 juegos de azar juan mandon.AssemblyInfo.cs
+C:\Users\juans\source\repos\Dados casa02 juegos de azar juan mandon\Dados casa02 juegos de azar juan mandon\bin\Debug\netcoreapp3.1\Dados casa02 juegos de azar juan mandon.exe
+C:\Users\juans\source\repos\Dados casa02 juegos de azar juan mandon\Dados casa02 juegos de azar juan mandon\bin\Debug\netcoreapp3.1\Dados casa02 juegos de azar juan mandon.deps.json
+C:\Users\juans\source\repos\Dados casa02 juegos de azar juan mandon\Dados casa02 juegos de azar juan mandon\bin\Debug\netcoreapp3.1\Dados casa02 juegos de azar juan mandon.runtimeconfig.json
+C:\Users\juans\source\repos\Dados casa02 juegos de azar juan mandon\Dados casa02 juegos de azar juan mandon\bin\Debug\netcoreapp3.1\Dados casa02 juegos de azar juan mandon.runtimeconfig.dev.json
+C:\Users\juans\source\repos\Dados casa02 juegos de azar juan mandon\Dados casa02 juegos de azar juan mandon\bin\Debug\netcoreapp3.1\Dados casa02 juegos de azar juan mandon.dll
+C:\Users\juans\source\repos\Dados casa02 juegos de azar juan mandon\Dados casa02 juegos de azar juan mandon\bin\Debug\netcoreapp3.1\Dados casa02 juegos de azar juan mandon.pdb
+C:\Users\juans\source\repos\Dados casa02 juegos de azar juan mandon\Dados casa02 juegos de azar juan mandon\obj\Debug\netcoreapp3.1\Dados casa02 juegos de azar juan mandon.dll
+C:\Users\juans\source\repos\Dados casa02 juegos de azar juan mandon\Dados casa02 juegos de azar juan mandon\obj\Debug\netcoreapp3.1\Dados casa02 juegos de azar juan mandon.pdb
