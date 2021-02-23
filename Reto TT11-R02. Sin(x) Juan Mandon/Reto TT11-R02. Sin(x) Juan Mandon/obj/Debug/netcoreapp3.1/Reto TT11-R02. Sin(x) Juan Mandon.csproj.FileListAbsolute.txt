@@ -1,0 +1,11 @@
+C:\Users\juans\source\repos\Reto TT11-R02. Sin(x) Juan Mandon\Reto TT11-R02. Sin(x) Juan Mandon\bin\Debug\netcoreapp3.1\Reto TT11-R02. Sin(x) Juan Mandon.exe
+C:\Users\juans\source\repos\Reto TT11-R02. Sin(x) Juan Mandon\Reto TT11-R02. Sin(x) Juan Mandon\bin\Debug\netcoreapp3.1\Reto TT11-R02. Sin(x) Juan Mandon.deps.json
+C:\Users\juans\source\repos\Reto TT11-R02. Sin(x) Juan Mandon\Reto TT11-R02. Sin(x) Juan Mandon\bin\Debug\netcoreapp3.1\Reto TT11-R02. Sin(x) Juan Mandon.runtimeconfig.json
+C:\Users\juans\source\repos\Reto TT11-R02. Sin(x) Juan Mandon\Reto TT11-R02. Sin(x) Juan Mandon\bin\Debug\netcoreapp3.1\Reto TT11-R02. Sin(x) Juan Mandon.runtimeconfig.dev.json
+C:\Users\juans\source\repos\Reto TT11-R02. Sin(x) Juan Mandon\Reto TT11-R02. Sin(x) Juan Mandon\bin\Debug\netcoreapp3.1\Reto TT11-R02. Sin(x) Juan Mandon.dll
+C:\Users\juans\source\repos\Reto TT11-R02. Sin(x) Juan Mandon\Reto TT11-R02. Sin(x) Juan Mandon\bin\Debug\netcoreapp3.1\Reto TT11-R02. Sin(x) Juan Mandon.pdb
+C:\Users\juans\source\repos\Reto TT11-R02. Sin(x) Juan Mandon\Reto TT11-R02. Sin(x) Juan Mandon\obj\Debug\netcoreapp3.1\Reto TT11-R02. Sin(x) Juan Mandon.csprojAssemblyReference.cache
+C:\Users\juans\source\repos\Reto TT11-R02. Sin(x) Juan Mandon\Reto TT11-R02. Sin(x) Juan Mandon\obj\Debug\netcoreapp3.1\Reto TT11-R02. Sin(x) Juan Mandon.AssemblyInfoInputs.cache
+C:\Users\juans\source\repos\Reto TT11-R02. Sin(x) Juan Mandon\Reto TT11-R02. Sin(x) Juan Mandon\obj\Debug\netcoreapp3.1\Reto TT11-R02. Sin(x) Juan Mandon.AssemblyInfo.cs
+C:\Users\juans\source\repos\Reto TT11-R02. Sin(x) Juan Mandon\Reto TT11-R02. Sin(x) Juan Mandon\obj\Debug\netcoreapp3.1\Reto TT11-R02. Sin(x) Juan Mandon.dll
+C:\Users\juans\source\repos\Reto TT11-R02. Sin(x) Juan Mandon\Reto TT11-R02. Sin(x) Juan Mandon\obj\Debug\netcoreapp3.1\Reto TT11-R02. Sin(x) Juan Mandon.pdb
