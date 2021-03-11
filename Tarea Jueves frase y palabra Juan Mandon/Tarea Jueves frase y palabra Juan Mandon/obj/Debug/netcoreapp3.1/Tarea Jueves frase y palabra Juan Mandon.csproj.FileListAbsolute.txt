@@ -1,0 +1,11 @@
+C:\Users\juans\source\repos\Tarea Jueves frase y palabra Juan Mandon\Tarea Jueves frase y palabra Juan Mandon\bin\Debug\netcoreapp3.1\Tarea Jueves frase y palabra Juan Mandon.exe
+C:\Users\juans\source\repos\Tarea Jueves frase y palabra Juan Mandon\Tarea Jueves frase y palabra Juan Mandon\bin\Debug\netcoreapp3.1\Tarea Jueves frase y palabra Juan Mandon.deps.json
+C:\Users\juans\source\repos\Tarea Jueves frase y palabra Juan Mandon\Tarea Jueves frase y palabra Juan Mandon\bin\Debug\netcoreapp3.1\Tarea Jueves frase y palabra Juan Mandon.runtimeconfig.json
+C:\Users\juans\source\repos\Tarea Jueves frase y palabra Juan Mandon\Tarea Jueves frase y palabra Juan Mandon\bin\Debug\netcoreapp3.1\Tarea Jueves frase y palabra Juan Mandon.runtimeconfig.dev.json
+C:\Users\juans\source\repos\Tarea Jueves frase y palabra Juan Mandon\Tarea Jueves frase y palabra Juan Mandon\bin\Debug\netcoreapp3.1\Tarea Jueves frase y palabra Juan Mandon.dll
+C:\Users\juans\source\repos\Tarea Jueves frase y palabra Juan Mandon\Tarea Jueves frase y palabra Juan Mandon\bin\Debug\netcoreapp3.1\Tarea Jueves frase y palabra Juan Mandon.pdb
+C:\Users\juans\source\repos\Tarea Jueves frase y palabra Juan Mandon\Tarea Jueves frase y palabra Juan Mandon\obj\Debug\netcoreapp3.1\Tarea Jueves frase y palabra Juan Mandon.csprojAssemblyReference.cache
+C:\Users\juans\source\repos\Tarea Jueves frase y palabra Juan Mandon\Tarea Jueves frase y palabra Juan Mandon\obj\Debug\netcoreapp3.1\Tarea Jueves frase y palabra Juan Mandon.AssemblyInfoInputs.cache
+C:\Users\juans\source\repos\Tarea Jueves frase y palabra Juan Mandon\Tarea Jueves frase y palabra Juan Mandon\obj\Debug\netcoreapp3.1\Tarea Jueves frase y palabra Juan Mandon.AssemblyInfo.cs
+C:\Users\juans\source\repos\Tarea Jueves frase y palabra Juan Mandon\Tarea Jueves frase y palabra Juan Mandon\obj\Debug\netcoreapp3.1\Tarea Jueves frase y palabra Juan Mandon.dll
+C:\Users\juans\source\repos\Tarea Jueves frase y palabra Juan Mandon\Tarea Jueves frase y palabra Juan Mandon\obj\Debug\netcoreapp3.1\Tarea Jueves frase y palabra Juan Mandon.pdb

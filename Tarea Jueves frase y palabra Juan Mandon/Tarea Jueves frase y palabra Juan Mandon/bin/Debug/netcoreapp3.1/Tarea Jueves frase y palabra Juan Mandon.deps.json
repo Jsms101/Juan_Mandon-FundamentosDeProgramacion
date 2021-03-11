@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tarea Jueves frase y palabra Juan Mandon/1.0.0": {
+        "runtime": {
+          "Tarea Jueves frase y palabra Juan Mandon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea Jueves frase y palabra Juan Mandon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
